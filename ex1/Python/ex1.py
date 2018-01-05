@@ -24,10 +24,7 @@ y = data.iloc[:, cols-1:cols]
 X = np.matrix(X.values)
 y = np.matrix(y.values)
 theta = np.matrix(np.array([0,0]))
-
-#computeCost(X, y, theta)
-
-# prepare variables for gradient descen
+# prepare variables for gradient descent
 alpha = 0.01
 num_iters = 1000
 
