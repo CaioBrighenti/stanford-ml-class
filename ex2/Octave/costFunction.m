@@ -23,6 +23,7 @@ hypot = sigmoid(X * theta);
 errors = -y .* log(hypot) - (1  - y) .* log(1 - hypot);
 J = (1 / m) * sum(errors);
 
+% could probably vectorize this
 for i=1:size(X,2);
   term = (hypot - y) .* X(:, i);
   grad(i, :) = (1/m) * sum(term);
