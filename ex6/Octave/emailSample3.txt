@@ -1,0 +1,38 @@
+More apologies for the delay in my response. See below.
+
+
+On Wed, Jan 24, 2018 at 10:21 AM, Jennifer Spindel <jsspindel@gmail.com> wrote:
+Hi Caio (and Harpp),
+
+Apologies for the delay in getting back to you on this.
+
+I am absolutely impressed that you've gone and learned computer vision and are taking a Stanford machine learning course. It sounds like that will pay off both for this paper, and for the long run.
+
+Agreed entirely, but not even remotely surprised. That's a compliment.
+
+(It also might mean we want to reconsider what the independent study is, and if there's any way you can have all of this technical knowledge you're gaining reflected on your transcript.)
+
+That means getting a comp sci prof to host the indep study. I can only do geol and PCON. You might convince Elodie to do it, if you want that? Alternatively, we just do a PCON indep study. Either way, we have to haul ass, it has to be done by Wednesday 4 PM this week. So let me know how you want to proceed (Caio).
+
+Machine learning is totally out of my range of knowledge, but I know some folks that I could put you in touch with if you do need help using machine learning down the road (they're both political scientists).
+
+That's useful.
+
+I agree that not having the POLMETH deadline will give you lots of time to explore and use your new skills.
+
+Yep.
+
+
+Let's plan for weekly updates on how the Stanford course and your data collection is going, and then we can transition to meeting more substantively once you have some writing to do.
+
+Yep.
+
+One thing to keep in mind as you're building your own system: one of the things that a lot of academics are not skilled at is describing the programs they've developed, how those programs collect and analyze data, and their results. Not to throw more things at you, but I can imagine it would be very valuable and well received if you were to, eventually, write a short piece on your use of machine learning. That sort of nitty-gritty hard data isn't usually found in political science papers -- though there is usually a "methods and data" section, it rarely helps others understand what was actually done. Food for thought, and obviously not something you have to do immediately, or even in the near future.
+
+Spindel's right on the money here. Well worth doing.
+
+
+So: keep us updated on your progress, and of course send any questions/concerns you have whenever they arise!
+
+And be sure to speak up. Let me know about the indep study paperwork business.
+Thanks Spindel!
